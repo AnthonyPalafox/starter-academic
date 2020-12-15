@@ -97,7 +97,7 @@ address = {street = "410 Social Sciences Building", city = "Berkeley", region = 
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.87005526428188", longitude = "-122.25798613626053"}
+# coordinates = {latitude = "37.87005526428188", longitude = "-122.25798613626053"}
 
 # Directions for visitors to locate you.
 directions = ""
