@@ -62,6 +62,6 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in the Departments of Sociology at the University of California, Berkeley. My work is rooted in the sociology of education and primarily focuses on educational expectations.
+I am a PhD student in the Department of Sociology at the University of California, Berkeley. My work is rooted in the sociology of education and primarily focuses on educational expectations.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
