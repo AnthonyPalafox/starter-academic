@@ -19,8 +19,8 @@ bio: My research interests include Education, Inequality, and Expectations.
 # Interests to show in About widget
 interests:
 - Education
-- Inequality
 - Expectations
+- Inequality
 - Computational Social Science
 
 # Education to show in About widget
@@ -64,4 +64,4 @@ highlight_name: false
 
 I am a PhD student in the Department of Sociology at the University of California, Berkeley. My work is rooted in the sociology of education and primarily focuses on educational expectations.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+# {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
