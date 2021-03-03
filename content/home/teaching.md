@@ -8,7 +8,7 @@ widget: blank
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title: Teaching
-subtitle = 
+subtitle: 
 
 
 # Order that this section will appear in.
